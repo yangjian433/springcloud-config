@@ -1,1 +1,2 @@
-config: "master,dev.yml"
+config:
+  info: "master,dev.yml"
