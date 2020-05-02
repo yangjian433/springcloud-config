@@ -1,2 +1,2 @@
 config:
-  info: "master,dev.yml"
+  info: "master,dev.yml,+1"
